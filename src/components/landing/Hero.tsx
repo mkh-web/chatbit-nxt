@@ -11,11 +11,11 @@ const images = [
   },
   {
     desktop: '/sld-v2.png',
-    mobile: '/sld-mobile-v2.png',
+    mobile: '/sld.png',
   },
   {
-    desktop: '/slide1.png',
-    mobile: '/slide1-mobile.png', // Create this file
+    desktop: '/sld.png',
+    mobile: '/sld.png', // Create this file
   },
 ];
 
@@ -81,4 +81,5 @@ export default function HeroSec() {
       </div>
     </section>
   );
+
 }
