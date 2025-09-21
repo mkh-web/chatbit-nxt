@@ -37,7 +37,7 @@ export default function Header() {
                   />
                 </svg>
               </div>
-              <span className="font-bold text-lg text-gray-900">شات سينتر</span>
+              <span className="font-bold text-lg text-gray-900">شات بت</span>
             </Link>
           </div>
 
@@ -58,6 +58,12 @@ export default function Header() {
               className="inline-flex items-center px-4 py-2 rounded-lg bg-gradient-to-r from-[#4828B7] via-[#3a1d8c] to-[#201251] text-white text-sm font-semibold shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300"
             >
               تسجيل الدخول
+            </Link>
+            <Link
+              href="/login"
+              className="inline-flex items-center px-4 py-2 rounded-lg text-[#3a1d8c] text-sm font-semibold shadow-sm focus:outline-none hover:bg-gray-100"
+            >
+               تواصل معانا
             </Link>
           </nav>
 

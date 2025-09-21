@@ -11,6 +11,7 @@ const FOOTER_SECTIONS = [
     links: [
       { label: "ادارة المحادثات", href: "#" },
       { label: "تقارير ومتابعة", href: "#" },
+      { label: "الامان", href: "#" },
       { label: "تكامل مع النظام", href: "#" },
     ],
   },
@@ -19,13 +20,14 @@ const FOOTER_SECTIONS = [
     links: [
       { label: "من نحن", href: "#" },
       { label: "وظائف", href: "#" },
+      { label: "تواصل مع المبيعات", href: "#" },
     ],
   },
   {
-    title: "الدعم",
+    title: "مصادر",
     links: [
       { label: "الاسئلة الشائعة", href: "#faq" },
-      { label: "تواصل", href: "#contact" },
+      { label: "مركز المساعدة", href: "#contact" },
     ],
   },
 ];
@@ -67,7 +69,7 @@ export default function Footer() {
               </div>
 
               <div className="max-w-xs">
-                <h4 className="font-bold">شات سينتر</h4>
+                <h4 className="font-bold">شات بت</h4>
                 <p className="text-sm text-gray-300 mt-1">
                   نظام إدارة عملاء متكامل يساعدك على تحويل الزوار إلى عملاء ورفع المبيعات.
                 </p>

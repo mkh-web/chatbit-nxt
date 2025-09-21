@@ -33,14 +33,14 @@ export default function CRMComparison() {
   return (
     <section className="max-w-6xl mx-auto p-6 bg-gray-50 rounded-2xl shadow-lg mt-12">
       <h2 className="text-3xl font-extrabold text-center mb-8 text-gray-800">
-        مقارنة بين شات سينتر وبرنامج  CRM عادي
+        مقارنة بين شات بت وبرنامج  CRM عادي
       </h2>
       <div className="overflow-x-auto">
         <table className="min-w-full border border-gray-200 rounded-xl overflow-hidden">
           <thead className=" bg-gradient-to-br from-[#4828B7] to-[#6E3AFF] text-white">
             <tr>
               <th className="p-4 text-right">الميزة</th>
-              <th className="p-4 text-right"> شات سينتر</th>
+              <th className="p-4 text-right"> شات بت</th>
               <th className="p-4 text-right">نظام crm عادي </th>
             </tr>
           </thead>
