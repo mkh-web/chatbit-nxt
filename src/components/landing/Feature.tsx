@@ -57,7 +57,7 @@ export default function Feature() {
             <div className="lg:w-1/2 flex justify-center lg:justify-end">
               <div className="relative w-full max-w-lg h-80 md:h-96 bg-gray-200 rounded-lg overflow-hidden shadow-xl border border-gray-100">
                 <Image
-                  src="/Frame 108.png"
+                  src="/Frame_108.png"
                   alt="Chat management system dashboard"
                   layout="fill"
                   objectFit="cover"
@@ -77,7 +77,7 @@ export default function Feature() {
             <div className="lg:w-1/2 flex justify-center lg:justify-start mb-12 lg:mb-0">
               <div className="relative w-full max-w-lg h-80 md:h-96 bg-gray-200 rounded-lg overflow-hidden shadow-xl border border-gray-100">
                 <Image
-                  src="/Frame 109.png"
+                  src="/Frame_109.png"
                   alt="Data analysis dashboard"
                   layout="fill"
                   objectFit="cover"
@@ -174,7 +174,7 @@ export default function Feature() {
             <div className="lg:w-1/2 flex justify-center lg:justify-end">
               <div className="relative w-full max-w-lg h-80 md:h-96 bg-gray-200 rounded-lg overflow-hidden shadow-xl border border-gray-100">
                 <Image
-                  src="/Frame 1010.png"
+                  src="/Frame_110.png"
                   alt="Team collaboration dashboard"
                   layout="fill"
                   objectFit="cover"
@@ -187,4 +187,5 @@ export default function Feature() {
       </section>
     </>
   );
+
 }
